@@ -13,8 +13,14 @@ This repository illustrates
 3. Run ``npm install``
 4. Run ``npm run start``
 
-## License
 
+## Contributions
+
+This project does not expect any contributions.
+
+## License
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License] (<http://creativecommons.org/licenses/by/4.0/>).
+
+
