@@ -20,7 +20,6 @@ This project does not expect any contributions.
 
 ## License
 
-This work is licensed under a
-[Creative Commons Attribution 4.0 International License] (<http://creativecommons.org/licenses/by/4.0/>).
+This work is licensed under the Apache License, Version 2.0. Full license text is available in the LICENSE file and at http://www.apache.org/licenses/LICENSE-2.0.txt
 
 
