@@ -2,8 +2,8 @@
 
 This repository illustrates 
 
-1. How to stream the data from Mastadon with Mastadon client library
-2. How to use **node-rdkafka** to send Mastadon data to an Apache Kafka topic.
+1. How to stream the data from Mastadon with Mastodon client library
+2. How to use **node-rdkafka** to send Mastodon data to an Apache Kafka topic.
  
 
 ## Set up
