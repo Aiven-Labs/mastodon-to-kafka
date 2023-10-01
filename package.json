@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "dotenv": "^16.0.3",
-    "masto": "^4.6.8",
+    "masto": "^6.3.1",
     "node-rdkafka": "^2.14.0"
   }
 }
