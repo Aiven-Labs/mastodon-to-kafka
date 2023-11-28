@@ -10,6 +10,7 @@ This repository illustrates
 
 1. Add your ca.pem, certificate.cert and service.key to **certificates** folder.
 2. Copy .env.example, rename to .env and set **kafka.uri** to point to you Aiven for Apache Kafka service
+3. Add your Mastodon token to .env
 3. Run ``npm install``
 4. Run ``npm run start``
 
